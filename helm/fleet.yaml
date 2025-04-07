@@ -1,4 +1,4 @@
-namespace: netapp-trident
+defaultNamespace: netapp-trident
 
 helm:
   releaseName: v25.02.1
