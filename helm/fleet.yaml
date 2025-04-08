@@ -4,7 +4,7 @@ helm:
   releaseName: v24.10.0
   chart: "trident-operator"
   repo: "https://netapp.github.io/trident-helm-chart"
-  force: false
+  force: true
   timeoutSeconds: 0
   values:
     replicas: 2
