@@ -1,6 +1,6 @@
 defaultNamespace: netapp-trident
 namespaceAnnotations:
-  fleet-managed: true
+  fleet-managed: "true"
 
 helm:
   releaseName: v24.10.0
